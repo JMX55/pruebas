@@ -9,3 +9,4 @@ while numero_inicial > 0:
         print("Es un numero par")
     else:
         print("Este es impar")
+print("He termiado")
